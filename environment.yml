@@ -1,0 +1,13 @@
+name: food-dbs-r
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - r-base=4.4
+  - bioconductor-biostrings
+  - r-here
+  - r-rentrez
+  - r-tidyverse
+  - r-taxize
+  - r-metacoder
